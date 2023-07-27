@@ -1,7 +1,6 @@
 # Snake-Game-2012
 
-Linked In Profile
-- https://www.linkedin.com/in/abhishek-kumar-bb094427a/
+https://linktr.ee/alex21c
 
 Development Year:
 2012
